@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DemoReadFile/DemoReadFile.iml" filepath="$PROJECT_DIR$/DemoReadFile/DemoReadFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoWriteFile/DemoWriteFile.iml" filepath="$PROJECT_DIR$/DemoWriteFile/DemoWriteFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO_TextFile.iml" filepath="$PROJECT_DIR$/IO_TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH1-SumInTextFile/TH1-SumInTextFile.iml" filepath="$PROJECT_DIR$/TH1-SumInTextFile/TH1-SumInTextFile.iml" />
     </modules>
   </component>
 </project>
