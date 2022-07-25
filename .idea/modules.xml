@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT1-CopyFile/BT1-CopyFile.iml" filepath="$PROJECT_DIR$/BT1-CopyFile/BT1-CopyFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoReadFile/DemoReadFile.iml" filepath="$PROJECT_DIR$/DemoReadFile/DemoReadFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoWriteFile/DemoWriteFile.iml" filepath="$PROJECT_DIR$/DemoWriteFile/DemoWriteFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO_TextFile.iml" filepath="$PROJECT_DIR$/IO_TextFile.iml" />
